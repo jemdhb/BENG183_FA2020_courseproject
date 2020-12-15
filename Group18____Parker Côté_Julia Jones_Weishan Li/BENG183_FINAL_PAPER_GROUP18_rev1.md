@@ -1,4 +1,4 @@
-# Algorithms behind Spliced Transcript Alignment to a Reference  
+# Algorithms behind Spliced Transcript Alignment to a Reference   
 
 #### STAR (Spliced Transcript Alignment to a Reference) is a efficient read mapping algorithm that handles RNA-Seq libraries
 
